@@ -21,10 +21,12 @@
 
 ## Screenshots
 
-*Add screenshots of the app here (e.g., contact list, add/edit dialogs) to showcase the UI.*
+![image](https://github.com/user-attachments/assets/be497b24-5c00-4acb-938e-4f57b12132b2)
+![image](https://github.com/user-attachments/assets/0968085f-28fe-47dc-9c76-47ed8904c85c)
+![image](https://github.com/user-attachments/assets/80f3a235-2d1a-40ed-b8fc-95c214995971)
 
-- 
-- 
+
+
 
 ## Prerequisites
 
